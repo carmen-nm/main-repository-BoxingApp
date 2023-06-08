@@ -23,3 +23,5 @@ In addition to the four mentioned routes, it is worth noting that for each creat
 
 
 ### Use case diagram
+
+![Usecase diagram](https://github.com/carmen-nm/FP-main-repository/assets/111683922/6f270782-cca6-4b17-90ff-2638152d86a3)
