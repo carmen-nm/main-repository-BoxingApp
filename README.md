@@ -14,3 +14,10 @@ On the "EXERCISES" tab in the navigation bar, you will find a list of exercises 
 In the "ROUTINES" tab, you can view a list of existing routines and create new ones. You can also save your favorite routines to your user profile. To create a routine, you need to provide a name, specify whether it is a cardio or strength routine, estimate its duration, include an image, and list the required materials. Once created, from the detailed view of this routine, you can add exercises to it. Both the ones you have created and the ones created by other users.
 
 In addition to the four mentioned routes, it is worth noting that for each created routine or exercise, a route will be generated where the detailed view can be found. From this view, you can also modify or delete any of these routines or exercises that you have created. There will also be a home route that describes the application and serves as the main access point for users.
+
+### Class diagram
+
+![Class diagram](https://github.com/carmen-nm/FP-main-repository/assets/111683922/0dbc5372-ce63-4897-b31f-a022c9525011)
+
+
+### Use case diagram
